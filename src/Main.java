@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Neuer Branch aus Master Branch mit Checkout");
-
+        System.out.println("test");
         System.out.println("Easy Peasy Calculator\n");
 
         int value1 = 10, value2 = 3;

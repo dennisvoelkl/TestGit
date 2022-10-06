@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
+
+        System.out.println("Zwei Branches erstellt. dann gewechselt in den zweiten. Dann Änderung gemacht");
+
+
         System.out.println("Easy Peasy Calculator\n");
 
         int value1 = 10, value2 = 3;
@@ -31,5 +35,7 @@ public class Main {
     public static int modulo(int value1, int value2) {
         return value1%value2;
     }
+
+
 }
 
